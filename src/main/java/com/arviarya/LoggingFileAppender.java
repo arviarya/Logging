@@ -1,8 +1,3 @@
-/**
- * Copyright 2012 Apple, Inc
- * Apple Internal Use Only
- **/
-
 
 package com.arviarya;
 
